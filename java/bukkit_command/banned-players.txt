@@ -1,0 +1,11 @@
+# Updated 10/14/23 10:42 PM by Minecraft 1.5.2
+# victim name | ban date | banned by | banned until | reason
+
+goaayush|2023-03-13 14:45:40 +0000|(Unknown)|Forever|Banned by an operator.
+mastermodebozoo|2023-03-14 16:14:31 +0000|(Unknown)|Forever|Banned by an operator.
+greenguesty|2023-03-14 21:28:02 +0000|(Unknown)|Forever|Banned by an operator.
+michaelbacon|2023-03-14 21:28:13 +0000|(Unknown)|Forever|Banned by an operator.
+mastermodebonzo|2023-03-15 18:29:31 +0000|(Unknown)|Forever|Banned by an operator.
+layden|2023-03-16 12:40:38 +0000|(Unknown)|Forever|Banned by an operator.
+sharpnessmc_294|2023-03-23 14:51:36 +0000|(Unknown)|Forever|Banned by an operator.
+water_d|2023-03-24 17:25:13 +0000|(Unknown)|Forever|Banned by an operator.
